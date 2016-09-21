@@ -1,0 +1,18 @@
+# Site settings
+title: Machine Learning Basics
+email: machine.learning.basics@gmail.com
+description: "Supplemental notes to Stanford's CS229"
+baseurl: ""
+url: "http://machine-learning-basics.github.io"
+github_username: carsontang
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
