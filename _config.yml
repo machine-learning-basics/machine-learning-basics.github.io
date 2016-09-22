@@ -1,11 +1,11 @@
 # Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+title: Machine Learning Basics
+email: machine-learning-basics@gmail.com
+description: "Machine learning notes"
 baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+url: "https://machine-learning-basics.github.io/"
+twitter_username: machine-learning-basics
+github_username:  machine-learning-basics
 
 # Build settings
 markdown: kramdown
