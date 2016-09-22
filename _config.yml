@@ -1,10 +1,10 @@
 # Site settings
 title: Machine Learning Basics
-email: machine-learning-basics@gmail.com
+email: machine.learning.basics.github@gmail.com
 description: "Machine learning notes"
 baseurl: ""
 url: "https://machine-learning-basics.github.io/"
-twitter_username: machine-learning-basics
+twitter_username: mlbasicsgithub
 github_username:  machine-learning-basics
 
 # Build settings
