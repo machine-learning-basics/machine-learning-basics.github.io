@@ -118,6 +118,4 @@ Given our cost function, we want successive values of $$\theta$$ such that $$J(\
 
 Here are some (optional) links you may find interesting for further reading:
 
-- [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), where especially section 6 is related but the whole paper is a warmly recommended reading.
-
-- [Recognizing and Learning Object Categories](http://people.csail.mit.edu/torralba/shortCourseRLOC/index.html), a short course of object categorization at ICCV 2005.
+- [Gauss-Markov theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_theorem), learn why the least squares cost function results in the best fit line.
